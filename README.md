@@ -24,9 +24,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://tr.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/100/undefined/react.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a></p>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="HTML" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="HTML" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibeyzo&show_icons=true&locale=en&layout=compact" alt="ibeyzo" /></p>
 
