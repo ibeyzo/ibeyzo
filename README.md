@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibeyzo" alt="ibeyzo" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript, React.js and Vue.js**
 
 - 📫 How to reach me **imbeyzonal@gmail.com**
 
