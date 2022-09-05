@@ -12,7 +12,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ibeyzo) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/imbeyzonal/) 
 <p align="center"> <a href="https://www.codewars.com/users/ibeyzo/" target="_blank"><img align="left" src="https://www.codewars.com/users/ibeyzo/badges/large" /> </p>
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/beyzaonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beyzaonal" height="30" width="40" /></a>
