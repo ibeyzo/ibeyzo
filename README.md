@@ -11,6 +11,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ibeyzo) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/imbeyzonal/) 
+<p align="center"> <a href="https://www.hackerrank.com/users/ibeyzo/" target="_blank"><img align="left" src="https://www.hackerrank.com/users/ibeyzo/badges/large" /> </p>
 <p align="center"> <a href="https://www.codewars.com/users/ibeyzo/" target="_blank"><img align="left" src="https://www.codewars.com/users/ibeyzo/badges/large" /> </p>
 <br>
 <h3 align="left">Connect with me:</h3>
