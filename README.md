@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibeyzo&label=Profile%20views&color=0e75b6&style=flat" alt="ibeyzo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibeyzo" alt="ibeyzo" /></a> </p>
-<!--
-- 🌱 I’m currently learning **C# and Dotnet**
--->
-- 📫 How to reach me **imbeyzonal@gmail.com**
 
+- 📫 How to reach me **imbeyzonal@gmail.com**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ibeyzo) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/imbeyzonal/) 
